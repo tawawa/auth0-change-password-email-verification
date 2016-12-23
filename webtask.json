@@ -1,0 +1,16 @@
+{
+  "title": "Change Password with Email Verification",
+  "name": "auth0-change-password-email-verification",
+  "version": "1.0.0",
+  "author": "arcseldon",
+  "description": "Email verification step introduced ahead of change password",
+  "type": "application",
+  "repository": "https://github.com/tawawa/auth0-change-password-email-verification.git",
+  "keywords": [
+    "auth0",
+    "email",
+    "verification",
+    "change password",
+    "webtask"
+  ]
+}
