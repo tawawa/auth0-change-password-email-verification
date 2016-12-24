@@ -9,7 +9,7 @@ const assert = require('assert');
 
 var config = require('./config');
 var init = false;
-var createTicket, handleCode, verifyCode, sendMail, sendSms;
+var createTicket, handleCode, verifyCode, sendMail;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: false}));
