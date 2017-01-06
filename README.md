@@ -27,6 +27,24 @@ $ ./deploy
 
 Then go to your webtask URL endpoint + `/forgot`
 
+
+## How does it look?
+
+Please note you can use Styling to change the look and feel to your needs - even look like integrated Lock widget.
+
+Password Reset Step 1
+
+![alt tag](img/step1.jpg)
+
+Password Reset Step 2
+
+![alt tag](img/step2.jpg)
+
+Password Reset Step 3
+
+![alt tag](img/step3.jpg)
+
+
 ## What is Auth0?
 
 Auth0 helps you to:
